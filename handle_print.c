@@ -1,15 +1,15 @@
 #include "main.h"
 
 /**
- * handle_print - handle Prints 
+ * handle_print - handle Prints
  * @fmt: Format parameter
- * @list: List 
+ * @list: List
  * @ind: ind.
  * @buffer: Buffer .
  * @flags: flags
  * @width: width.
  * @precision: Precision
- * @size: Size 
+ * @size: Size
  * Return: (1) or (2).
  */
 

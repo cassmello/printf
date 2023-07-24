@@ -2,9 +2,9 @@
 
 /**
  * get_precision - Calculates precision
- * @format: Formatted string 
+ * @format: Formatted string
  * @i: pointer parameter
- * @list: list 
+ * @list: list
  * Return: Precision.
  */
 

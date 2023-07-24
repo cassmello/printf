@@ -8,7 +8,7 @@
  * @flags:  flags.
  * @width: width.
  * @precision: precision
- * @size: Size 
+ * @size: Size
  * Return: Number of chars printed.
  */
 
